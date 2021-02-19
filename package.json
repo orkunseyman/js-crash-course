@@ -1,0 +1,22 @@
+{
+  "name": "js-crash-course",
+  "version": "1.0.0",
+  "description": "Women Techmakers Berlin JavaScript Crash Course Vol 3 homeworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkunseyman/js-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orkunseyman/js-crash-course/issues"
+  },
+  "homepage": "https://github.com/orkunseyman/js-crash-course#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
